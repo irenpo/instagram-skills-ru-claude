@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+golos.md
+log.md
+swipe_*.md
+plan_*.md
